@@ -12,8 +12,7 @@ Motivation
 We chose this project because water quality is important for human health and daily life. Identifying whether water is safe for drinking can help reduce potential health risks. The dataset contains various water quality measurements that can help us understand the factors related to water potability and apply classification and clustering techniques to the data.
 
 Student Namse:
-
-Nourah Aljeraisy
-Deem Aldawood 
-Shaden Alghannam
-Ghada Alhazzani
+Nourah Aljeraisy - 
+Deem Aldawood - 
+Shaden Alghannam - 
+Ghada Alhazzani 
